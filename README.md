@@ -1,6 +1,6 @@
 <img src="https://raw.githubusercontent.com/antoniocdsmfilho/antoniocdsmfilho/refs/heads/main/cadeado.jpg" width="400" align="right">
 
-<p align="left"><strong>OLÁ</strong>😀</strong></p>
+# <p align="left"><strong>OLÁ</strong>😀</strong></p>
 
 <p align="left"><strong>👨‍🎓 Ensino Superior:</strong> Curso Superior de Tecnologia em Segurança da Informação - PUC Minas - Pontifícia Universidade Católica de Minas Gerais.</p>
 
