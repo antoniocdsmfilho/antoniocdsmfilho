@@ -1,9 +1,6 @@
 <img src="https://raw.githubusercontent.com/antoniocdsmfilho/antoniocdsmfilho/refs/heads/main/cadeado.jpg" width="400" align="right">
 
-<p align="left">
-  Faça uma breve apresentação sua com o seu nome e não esqueça a <strong>sua stack</strong>.<br>
-  Diga o que você está fazendo no momento, se trabalha ou estuda.
-</p>
+<p align="left"><strong>OLÁ</strong>😀</strong></p>
 
 <p align="left"><strong>👨‍🎓 Ensino Superior:</strong> Curso Superior de Tecnologia em Segurança da Informação - PUC Minas - Pontifícia Universidade Católica de Minas Gerais.</p>
 
